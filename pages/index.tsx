@@ -46,6 +46,7 @@ export default function Home() {
         <title>BaseChainLore — Living On-Chain Story</title>
         <meta name="description" content="A living on-chain collaborative story on Base. Anyone can add one sentence." />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="base:app_id" content="69e7c25d6ced5c904f61967b" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
